@@ -1,0 +1,94 @@
+﻿@page "/activitylist"
+
+@inherits ActivityListProcess
+<div class="baslik">
+
+</div>
+<div class="btn-group">
+    <div class="container">
+        <AddNewButtonComponent Caption=" Create Activity" OnClick="goCreateActivityPage" />
+
+    </div>
+</div>
+
+
+@*<YeniEtkinlikComponent Caption="Yeni Etkinlik" OnClick="changeTitle" />*@
+<div class="etkinliktablo">
+
+    @*Burda kod bloğuna ihtiyacım olmayacak sadece html kısmını kullanacağım*@
+
+    @if (ActivityList != null)
+    {
+        <table class="table table-hover table-sm">
+            <thead>
+                <tr>
+                   
+                    <th scope="col">Activity ID</th>
+                    <th scope="col">Activity Name</th>
+                    <th scope="col">Start Date</th>
+                    <th scope="col">End Date</th>
+                    <th scope="col">Location</th>
+                    <th scope="col">IsActive</th>
+                    
+
+
+                  
+
+                </tr>
+            </thead>
+
+            <tbody>
+
+                @foreach (var activity in ActivityList)
+                {
+
+                    String spanClass = "badge badge-pill badge-" + (activity.IsActive ? "success" : "danger");
+
+                    <tr>
+
+                        <td>@activity.ActivityId</td>
+                        <td>@activity.ActivityName</td>
+                        <td>@activity.StartDate</td>
+                        <td>@activity.EndDate</td>
+                        <td>@activity.Location</td>
+                        @*<td>@activity.IsActive</td>*@
+                        <td><span class="@spanClass"> @(activity.IsActive ? "✅" : "❌") </span></td>
+                      @*  <td><CustomEditButtonComponent IsSmall="true" Caption="" IsOutline="true" OnClick="@(()=>goUpdateActivityPage(activity.ActivityId))"/></td>*@
+
+
+                    </tr>
+
+                } 
+            </tbody>
+
+
+        </table>
+    }
+
+</div>
+
+
+<style>
+
+    .baslik {
+        /*font-family:monospace;*/
+        font-style: italic;
+        margin-left: 350px;
+        position: fixed;
+        top: 55px;
+    }
+
+    .etkinliktablo {
+        position: fixed;
+        margin-top: 5%;
+        width: 70%;
+        margin-left: 12.5%;
+        border: solid;
+        border-color: black;
+        height: 60%;
+        background-color: gainsboro;
+    }
+
+</style>
+
+

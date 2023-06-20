@@ -1,0 +1,47 @@
+﻿@page "/buttontest"
+@page "/buttons"
+@using MİntiDateAssistant.Client.Utils
+
+@inject IModalService modal
+
+<h3>@title</h3>
+
+<div class="form-group">
+
+
+    <div class="container">
+        <div class="btn-toolbar">
+
+
+            <CustomEditButtonComponent Caption="ShowMessage" OnClick="changeTitle" />
+
+            <CustomEditButtonComponent Caption="Edit Caption"  Color="danger" Icon="pencil" IsSmall="false" />
+
+
+           
+    
+
+
+
+        </div>
+    </div>
+
+
+</div>
+
+@code {
+
+   
+
+
+    private String title = "";
+
+    private async Task changeTitle()
+    {
+        ModalParameters mParams = new ModalParameters();
+        mParams.Add("Message", "Bu bir test denemesidir.");
+
+        modal.Show<ShowMessagePopupComponent>("Counter Popup  Page", mParams);
+    }
+
+}

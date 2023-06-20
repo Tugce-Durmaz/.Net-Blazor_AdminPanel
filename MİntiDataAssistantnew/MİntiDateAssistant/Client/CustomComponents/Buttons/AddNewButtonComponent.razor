@@ -1,0 +1,30 @@
+﻿@inherits BaseButtonComponent
+
+
+
+<div class="addbutton">
+<ButtonComponent Caption="@(Caption ?? "Add")"
+                 Color="@(Color ?? "primary")"
+                 Icon="@(Icon ?? "plus-square")"
+                 OnClick="OnClick"
+                 ToolTipStr="@(ToolTipStr ?? "Add")"
+                 IsOutline="@IsOutline"
+                 IsSmall="@IsSmall" />
+
+                 </div>
+
+                 <style>
+
+                     .addbutton {
+        hight: 20px;
+        weight: 50px;
+        margin-left: 75%;
+        position: fixed;
+        top: 70px;
+                     }
+
+
+
+
+
+                 </style>

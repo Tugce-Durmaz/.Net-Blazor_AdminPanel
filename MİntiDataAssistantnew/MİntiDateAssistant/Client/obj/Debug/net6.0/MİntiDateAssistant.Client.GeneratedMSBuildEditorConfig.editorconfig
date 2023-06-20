@@ -1,0 +1,135 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = MİntiDateAssistant.Client
+build_property.RootNamespace = MİntiDateAssistant.Client
+build_property.ProjectDir = C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/AddNewButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEFkZE5ld0J1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/AnketlerButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEFua2V0bGVyQnV0dG9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/AyarlarButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEF5YXJsYXJCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/BaseButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJhc2VCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/BilgiTalepleriButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJpbGdpVGFsZXBsZXJpQnV0dG9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/ButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/CancelButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXENhbmNlbEJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/CustomEditButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEN1c3RvbUVkaXRCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/EtkinliklerButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEV0a2lubGlrbGVyQnV0dG9uQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/KatılımcılarButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXEthdMSxbMSxbWPEsWxhckJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/SaveButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXFNhdmVCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/SupervisorlarButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXFN1cGVydmlzb3JsYXJCdXR0b25Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/Buttons/YeniEtkinlikComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xCdXR0b25zXFllbmlFdGtpbmxpa0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/ModalComponents/BaseModalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcQmFzZU1vZGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/ModalComponents/ConfirmationPopupComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcQ29uZmlybWF0aW9uUG9wdXBDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/CustomComponents/ModalComponents/ShowMessagePopupComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3VzdG9tQ29tcG9uZW50c1xNb2RhbENvbXBvbmVudHNcU2hvd01lc3NhZ2VQb3B1cENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/Activities/ActivityList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdGllc1xBY3Rpdml0eUxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/Activities/EditOrInsertActivity.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdGllc1xFZGl0T3JJbnNlcnRBY3Rpdml0eS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/ButtonTest.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uVGVzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/Katılımcılar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2F0xLFsxLFtY8SxbGFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Pages/Users/UserList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcVXNlckxpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-28fojch19g
+
+[C:/Users/tugce/source/repos/MİntiDateAssistant/MİntiDateAssistant/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-inda51y9vq

@@ -1,0 +1,33 @@
+﻿@inherits BaseButtonComponent
+
+<div class="yenietkinlik">
+    <ButtonComponent Caption="@(Caption ?? "Edit")"
+                     Color="@(Color ?? "light")"
+                     OnClick="OnClick"
+                     ToolTipStr="@(ToolTipStr ?? "Edit")"
+                     IsOutline="@IsOutline"
+                     IsSmall="@IsSmall" />
+
+</div>
+
+<style>
+    .yenietkinlik {
+        hight: 20px;
+        weight: 50px;
+        border-color: black;
+        font-family: monospace;
+        font-color: black;
+        background-color: white;
+        margin-left: 75%;
+        position: fixed;
+        top:70px;
+        box-shadow: 4px 4px 5px #000;
+
+
+    }
+
+</style>
+
+@code {
+ 
+}

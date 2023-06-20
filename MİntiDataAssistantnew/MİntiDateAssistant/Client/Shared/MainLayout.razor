@@ -1,0 +1,45 @@
+﻿@inherits LayoutComponentBase
+
+@*<div class="page">
+    <div class="sidebar">
+        <NavMenu />
+    </div>
+</div>*@
+    <main>
+        
+
+
+        <div class="image">
+            <img src="css/t.png">
+        </div>
+
+
+        <div class="z1">
+            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+        </div>
+
+        <article class="content px-4">
+            @Body
+        </article>
+    </main>
+
+
+
+
+
+    <style>
+        .image {
+            margin-right: 1150px;
+            margin-left: 0px;
+            height: 54px;
+            width: 50px;
+        }
+
+        .z1 {
+            background-color: white;
+            margin-left: 1320px;
+            position: fixed;
+            margin-top: -30px;
+        }
+
+    </style>

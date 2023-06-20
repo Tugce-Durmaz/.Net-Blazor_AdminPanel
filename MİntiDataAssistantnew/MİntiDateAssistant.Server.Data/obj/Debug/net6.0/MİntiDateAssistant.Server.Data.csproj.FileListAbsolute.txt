@@ -1,0 +1,14 @@
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\bin\Debug\net6.0\MİntiDateAssistant.Server.Data.deps.json
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\bin\Debug\net6.0\MİntiDateAssistant.Server.Data.runtimeconfig.json
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\bin\Debug\net6.0\MİntiDateAssistant.Server.Data.dll
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\bin\Debug\net6.0\MİntiDateAssistant.Server.Data.pdb
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.csproj.AssemblyReference.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.AssemblyInfoInputs.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.AssemblyInfo.cs
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.csproj.CoreCompileInputs.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.dll
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\refint\MİntiDateAssistant.Server.Data.dll
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.pdb
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\MİntiDateAssistant.Server.Data.genruntimeconfig.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant.Server.Data\obj\Debug\net6.0\ref\MİntiDateAssistant.Server.Data.dll

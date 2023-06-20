@@ -1,0 +1,104 @@
+﻿@page "/activities/add"
+@page "/activities/edit/{ActivityId:int}"
+@using MİntiDateAssistant.Shared.DTO
+
+
+<EditForm Model = "@activityModel"  OnValidSubmit="editOrUpdate">
+   <DataAnnotationsValidator/>
+
+   <div class="form-row">
+
+
+       <div class = "form-group col-md-6">
+           <label class="label">Activity Name</label>
+           <InputText @bind-Value="@activityModel.ActivityName" class="form-control"/>
+           <ValidationMessage For= "@(()=>activityModel.ActivityName)"/>
+       </div>
+       <p/>
+
+       
+        <div class="form-group col-md-6">
+            <label class="label">Start Date</label>
+            <InputDate @bind-Value="@activityModel.StartDate" class="form-control" />
+            <ValidationMessage For="@(()=>activityModel.StartDate)" />
+        </div>
+        <p/>
+
+        <div class="form-group col-md-6">
+            <label class="label">End Date</label>
+        <InputDate @bind-Value="@activityModel.EndDate" class="form-control" />
+        <ValidationMessage For="@(()=>activityModel.EndDate)" />
+        </div>
+
+        <p/>
+        
+        <div class="form-group col-md-6">
+            <label class="label">Location</label>
+            <InputText @bind-Value="@activityModel.Location" class="form-control" />
+            <ValidationMessage For="@(()=>activityModel.Location)" />
+        </div>
+        <p/>
+        <SaveButtonComponent Caption=" Save" />
+        <CancelButtonComponent OnClick="goBackActivityList" />
+
+
+   </div>
+
+
+
+</EditForm>
+
+<style>
+
+
+
+ 
+
+    .form-row{
+        margin-top:100px;
+        margin-left:500px;
+
+
+    }
+
+    .label{
+        font-weight:bold;
+
+
+
+    }
+
+
+</style>
+
+@code {
+
+    [Parameter]
+    public int ActivityId {get; set;}
+
+    [Inject]
+    public HttpClient HttpClient { get; set; }
+
+    private ActivityDTO activityModel = new ActivityDTO();
+    private string pageTitle = "Create Activity";
+
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+
+    async Task goBackActivityList()
+    {
+        NavigationManager.NavigateTo("/activitylist");
+    }
+
+    async Task editOrUpdate()
+    {
+
+
+        //Insert
+        if(ActivityId == null)
+        {
+      var res = await HttpClient.PostGetServiceResponseAsync<ActivityDTO, ActivityDTO>("api/activities/create" ,activityModel);
+        }
+
+    }
+}

@@ -1,0 +1,12 @@
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\bin\Debug\net6.0\MİntiDateAssistant.Shared.deps.json
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\bin\Debug\net6.0\MİntiDateAssistant.Shared.dll
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\bin\Debug\net6.0\MİntiDateAssistant.Shared.pdb
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.csproj.AssemblyReference.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.AssemblyInfoInputs.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.AssemblyInfo.cs
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.dll
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\refint\MİntiDateAssistant.Shared.dll
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\MİntiDateAssistant.Shared.pdb
+C:\Users\tugce\source\repos\MİntiDateAssistant\MİntiDateAssistant\Shared\obj\Debug\net6.0\ref\MİntiDateAssistant.Shared.dll
